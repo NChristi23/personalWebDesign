@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,700;1,400&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,700;1,400&family=Maitree:wght@200;300;400;500;600;700&family=Oranienbaum&family=Outfit:wght@200;300;400;500;600;700;800;900&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap');
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Outfit", sans-serif;
+  font-family: "Maitree", sans-serif;
 }
 
 body {
@@ -21,10 +21,10 @@ ul {
 }
 
 .btn {
-  padding: 12px 32 px;
+  padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(248, 217, 15);
+  background: #abcf5a; /* yellow green */
   color: #222;
   border: 1px solid #fff;
   font-weight: 600;
